@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginAndProductCatalog</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="this_is_the_footer">This is the footer</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="full_name">Full Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+</resources>
